@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I like Chess. I like functional programming. I write functional program to play Chess.
+## I like chess, and I like programming... so I wrote a program to play Chess!
 
 <!--
 **Antzy21/Antzy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
