@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## I like chess, and I like programming... so I wrote a program to play Chess!
+I'm a software dev in London.
+I enjoy working on all sorts of personal projects in my spare time.
 
 <!--
 **Antzy21/Antzy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
